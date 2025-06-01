@@ -1,6 +1,6 @@
 # 📊 Financial Analysis of LT Foods Ltd.
 
-![LT Foods Banner](path/to/your/image.png) <!-- Replace with actual image path -->
+![image](https://github.com/user-attachments/assets/cb33c0b6-2bbb-448d-9e44-f1630a93ef9a)
 
 ---
 
