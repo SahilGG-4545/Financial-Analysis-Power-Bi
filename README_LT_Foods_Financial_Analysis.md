@@ -1,6 +1,8 @@
 # Financial Analysis of LT Foods Ltd.
 
-![image](https://github.com/user-attachments/assets/cb33c0b6-2bbb-448d-9e44-f1630a93ef9a)
+<img src="![image](https://github.com/user-attachments/assets/cb33c0b6-2bbb-448d-9e44-f1630a93ef9a)
+" alt="Sales vs Target Revenue" width="400"/>
+
 
 ---
 
