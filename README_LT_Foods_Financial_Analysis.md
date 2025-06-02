@@ -23,7 +23,7 @@ This project aims to assess the financial health of LT Foods Ltd. by analyzing p
 - **Content**: Historical financials including income, expenses, assets, liabilities, and ratios  
 - **Preparation**: Data was cleaned, categorized, and formatted for effective analysis. Missing values were handled, and relevant categories such as revenue, costs, and assets were structured systematically using excel and power query.
 
-![image](https://github.com/user-attachments/assets/1d3473b5-6937-475f-bac1-0e94aa082322)
+<img src="https://github.com/user-attachments/assets/1d3473b5-6937-475f-bac1-0e94aa082322" alt="Sales vs Target Revenue" width="500"/>
 
 ---
 
