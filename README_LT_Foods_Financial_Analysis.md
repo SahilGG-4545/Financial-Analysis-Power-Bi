@@ -172,7 +172,7 @@ Insight: Although PAT remains a smaller portion of gross profit, the consistent 
 - Depreciation % is steady, from over 1.5% in 2014 to 2.28% in 2021 and slightly reduced to 1.97% in 2024.  
 - Interest % has steadily declined from 4.6% in 2014 to just 1.07% in 2024.
 
-Insight: The consistent decline in interest burden and stable depreciation levels have contributed to improved profitability margins and healthier long-term financial positioning.
+**Insight:** The consistent decline in interest burden and stable depreciation levels have contributed to improved profitability margins and healthier long-term financial positioning.
 
 ### 3. P&L Subhead Distribution 
 Breakdown of key cost components (as % of total cost) over the years:
@@ -181,7 +181,7 @@ Breakdown of key cost components (as % of total cost) over the years:
 - Manufacturing & Employee Costs form the next major segments.  
 - Other Costs, Interest, Depreciation, and Tax form minor but stable shares.
 
-Insight: Material costs are the most significant contributor to expenses. However, controlled non-operational costs (like interest and depreciation) improve overall profitability.
+**Insight:** Material costs are the most significant contributor to expenses. However, controlled non-operational costs (like interest and depreciation) improve overall profitability.
 
 <img src="https://github.com/user-attachments/assets/e9a127a7-bba5-4faf-b683-82f2a17bc0d5" alt="IS analysis" width="600"/>
 
@@ -197,8 +197,7 @@ This report provides a visual overview of balance sheet structure, illustrating 
 - Current Liabilities form the second-largest component.
 - Non-Current Assets and Current Assets make up the remaining portions.
 
-**Insight:**  
-The company has a higher proportion of liabilities, indicating a capital structure that leans more on debt. Strategic focus on asset optimization may be beneficial.
+**Insight:** The company has a higher proportion of liabilities, indicating a capital structure that leans more on debt. Strategic focus on asset optimization may be beneficial.
 
 ### 2. BS Sub Group Head Contribution
 
@@ -206,16 +205,14 @@ The company has a higher proportion of liabilities, indicating a capital structu
 - Reserves and Borrowings contribute moderately.
 - Other Liabilities, Fixed Assets, and Other Assets account for smaller shares.
 
-**Insight:**  
-A strong equity base with moderate borrowings and growing reserves suggests prudent financial management and an emphasis on self-sustained growth.
+**Insight:** A strong equity base with moderate borrowings and growing reserves suggests prudent financial management and an emphasis on self-sustained growth.
 
 ### 3. Borrowing and Reserves Over Years (2020–2024)
 
 - Borrowings have shown a consistent downward trend.
 - Reserves have steadily increased year over year.
 
-**Insight:**  
-The reduction in borrowings along with a rising reserve balance reflects strong financial discipline and a shift toward leveraging internal resources.
+**Insight:** The reduction in borrowings along with a rising reserve balance reflects strong financial discipline and a shift toward leveraging internal resources.
 
 <img src="https://github.com/user-attachments/assets/4c2da8dd-41e0-491d-8b0b-72ba4414e57d" alt="BS overview" width="600"/>
 
@@ -232,8 +229,7 @@ This section highlights the financial health of LT Foods Ltd. through key metric
 - **Asset Turnover Ratio** shows moderate efficiency in using assets to generate revenue.
 - **Debt-to-Equity Ratio** remains low, reflecting a conservative capital structure with minimal reliance on debt.
 
-**Insight:**  
-The healthy liquidity and low leverage imply financial stability and room for growth without aggressive borrowing.
+**Insight:** The healthy liquidity and low leverage imply financial stability and room for growth without aggressive borrowing.
 
 ### 2. Value Distribution by Balance Sheet Node
 
@@ -241,31 +237,27 @@ The healthy liquidity and low leverage imply financial stability and room for gr
 - **Other Liabilities**, **Fixed Assets**, and **Borrowings** contribute moderately.
 - Smaller components include **Investments** and **Equity Capital**.
 
-**Insight:**  
-A significant share of value is stored in reserves and other assets, indicating a strong buffer and diversification in the asset base.
+**Insight:** A significant share of value is stored in reserves and other assets, indicating a strong buffer and diversification in the asset base.
 
 ### 3. PAT and Annual Value Performance (2019–2024)
 
 - Both the annual value and PAT (Profit After Tax) have shown consistent growth over the years.
 - The PAT trend closely tracks total value growth, highlighting profitability improvements.
 
-**Insight:**  
-Consistent year-over-year PAT growth is a sign of improving margins and effective cost control.
+**Insight:** Consistent year-over-year PAT growth is a sign of improving margins and effective cost control.
 
 ### 4. Equity, Liabilities, and Assets Over Years
 
 - Total Assets have steadily increased.
 - Equity and Total Liabilities have also grown, with assets outpacing liabilities.
 
-**Insight:**  
-The growth in equity and total assets indicates solid reinvestment and balance sheet strengthening over time.
+**Insight:** The growth in equity and total assets indicates solid reinvestment and balance sheet strengthening over time.
 
 ### 5. Asset Turnover Trends 
 
 - Asset turnover remained relatively stable with gradual improvement in recent years.
 
-**Insight:**  
-The increasing asset turnover trend suggests better asset utilization and improved operational efficiency.
+**Insight:** The increasing asset turnover trend suggests better asset utilization and improved operational efficiency.
 
 <img src="https://github.com/user-attachments/assets/ff43c726-64f9-4636-8a6a-a6b3b476443f" alt="BS analysis" width="600"/>
 
@@ -280,16 +272,14 @@ This section offers a comprehensive overview of LT Foods Ltd.'s cash flow perfor
 - **EBITDA** has shown a consistent upward trend, reflecting improved profitability.
 - **Cash Flow from Operations (CFO)**, while more volatile, has generally improved over time.
 
-**Insight:**  
-Growth in both EBITDA and CFO suggests the company is not only profitable but also generating stronger operational cash flows, especially in recent years.
+**Insight:** Growth in both EBITDA and CFO suggests the company is not only profitable but also generating stronger operational cash flows, especially in recent years.
 
 ### 2. Free Cash Flow (FCF) Trends
 
 - **FCF** has fluctuated over the years with notable positive surges in recent periods.
 - Significant improvements in 2020 and 2024 indicate better control over capital expenditures and operational efficiency.
 
-**Insight:**  
-The positive FCF trajectory enhances financial flexibility and positions the company well for reinvestment and debt repayment.
+**Insight:** The positive FCF trajectory enhances financial flexibility and positions the company well for reinvestment and debt repayment.
 
 
 LT Foods Ltd. demonstrates an overall strengthening of its cash flow position, with marked improvements in EBITDA, Free Cash Flow, and Operating Cash. The insights indicate a financially resilient organization capable of sustaining growth through internal accruals and disciplined investment.
@@ -308,25 +298,21 @@ This section highlights LT Foods Ltd.'s financial strength and efficiency throug
 - **ROCE%** and **ROE%** remained steady with marginal improvements, reflecting stable returns on capital and equity.
 - **PAT%** saw a gradual rise, indicating enhanced profitability.
 
-**Insight:**  
-The company maintains healthy profitability margins and efficient capital usage, signaling strong business fundamentals.
+**Insight:** The company maintains healthy profitability margins and efficient capital usage, signaling strong business fundamentals.
 
 ### 2. EPS and Book Value Growth
 
 - **Earnings Per Share (EPS)** and **Book Value Per Share (BVPS)** have both seen a sharp upward trend.
 - Growth in EPS shows improved shareholder returns, while BVPS growth reflects a strong equity base.
 
-**Insight:**  
-The rising EPS and BVPS underscore increasing shareholder value and strengthening financial health.
+**Insight:** The rising EPS and BVPS underscore increasing shareholder value and strengthening financial health.
 
 ### 3. Financial Leverage vs. Asset Turnover
 
 - **Financial leverage** has significantly decreased, indicating reduced reliance on debt.
 - **Asset Turnover** remained relatively stable, suggesting consistent asset utilization.
 
-**Insight:**  
-The declining financial leverage with steady asset turnover reflects a more conservative and efficient capital structure.
-
+**Insight:** The declining financial leverage with steady asset turnover reflects a more conservative and efficient capital structure.
 
 LT Foods Ltd. has shown improved financial ratios across profitability, returns, and capital efficiency metrics. A strong rise in EPS and a reduction in financial leverage further indicate a shift toward a more robust and sustainable financial model.
 
