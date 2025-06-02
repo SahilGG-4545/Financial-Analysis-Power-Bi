@@ -23,7 +23,7 @@ This project aims to assess the financial health of LT Foods Ltd. by analyzing p
 - **Content**: Historical financials including income, expenses, assets, liabilities, and ratios  
 - **Preparation**: Data was cleaned, categorized, and formatted for effective analysis. Missing values were handled, and relevant categories such as revenue, costs, and assets were structured systematically using excel and power query.
 
-<img src="https://github.com/user-attachments/assets/1d3473b5-6937-475f-bac1-0e94aa082322" alt="Sales vs Target Revenue" width="500"/>
+<img src="https://github.com/user-attachments/assets/1d3473b5-6937-475f-bac1-0e94aa082322" alt="data gather" width="600"/>
 
 ---
 
@@ -31,7 +31,7 @@ This project aims to assess the financial health of LT Foods Ltd. by analyzing p
 
 This Power BI data model integrates financial data across multiple fact tables—Balance Sheet, P&L, and Cash Flow Statement—linked with their respective dimension tables. It includes a date dimension for time-based analysis and additional tables for segment and geographic contributions. The model is structured to support efficient financial reporting, enabling dynamic insights through well-defined relationships and calculated measures. It ensures scalability and clarity in enterprise-level financial analytics.
 
-![data modelling](https://github.com/user-attachments/assets/d65d5cd0-4d6f-4a59-a7fc-fe53688ff9fe)
+<img src="https://github.com/user-attachments/assets/d65d5cd0-4d6f-4a59-a7fc-fe53688ff9fe" alt="data modelling" width="600"/>
 
 ---
 
@@ -59,6 +59,9 @@ The analysis focused on several key financial and performance indicators:
   - **Return on Equity (ROE)**
   - **Return on Capital Employed (ROCE)**
 
+<img src="" alt="Data Analysis Overview" width="600"/>
+![Uploading image.png…]()
+
 ---
 
 ## LT Foods Performance Evaluation
@@ -83,6 +86,8 @@ This analysis offers deep insights into the financial health and operational eff
   - **PAT %**  
   These margins reflect profitability improvements and strategic financial control.
 
+<img src="" alt="data gather" width="600"/>
+
 ---
 
 ## Revenue & Expense Insights 
@@ -102,6 +107,8 @@ The dashboard offers a comprehensive visual overview of revenue sources and key 
 - **India:** **13% (₹1010 Cr)** – Despite being a home market, domestic contribution is comparatively lower.  
 
 **Insight:** The international market contributes to **87% of total revenue**, underscoring LT Foods’ position as a global food brand. There’s potential to scale domestic presence through product innovation and brand reinforcement.
+
+<img src="" alt="data gather" width="600"/>
 
 ---
 
@@ -146,6 +153,8 @@ This report visualizes the financial performance of LT Foods Ltd., focusing on E
 
 **Insight:** Despite a high cost structure (driven by COGS), consistent profits indicate efficient financial management and value generation.
 
+<img src="" alt="data gather" width="600"/>
+
 ---
 
 ## Income Statement Analysis 
@@ -174,6 +183,8 @@ Breakdown of key cost components (as % of total cost) over the years:
 - Other Costs, Interest, Depreciation, and Tax form minor but stable shares.
 
 Insight: Material costs are the most significant contributor to expenses. However, controlled non-operational costs (like interest and depreciation) improve overall profitability.
+
+<img src="" alt="data gather" width="600"/>
 
 ---
 
@@ -206,6 +217,8 @@ A strong equity base with moderate borrowings and growing reserves suggests prud
 
 **Insight:**  
 The reduction in borrowings along with a rising reserve balance reflects strong financial discipline and a shift toward leveraging internal resources.
+
+<img src="" alt="data gather" width="600"/>
 
 ---
 
@@ -255,6 +268,8 @@ The growth in equity and total assets indicates solid reinvestment and balance s
 **Insight:**  
 The increasing asset turnover trend suggests better asset utilization and improved operational efficiency.
 
+<img src="" alt="data gather" width="600"/>
+
 ---
 
 ## Cash Flow Insights 
@@ -279,6 +294,8 @@ The positive FCF trajectory enhances financial flexibility and positions the com
 
 
 LT Foods Ltd. demonstrates an overall strengthening of its cash flow position, with marked improvements in EBITDA, Free Cash Flow, and Operating Cash. The insights indicate a financially resilient organization capable of sustaining growth through internal accruals and disciplined investment.
+
+<img src="" alt="data gather" width="600"/>
 
 ---
 
@@ -313,6 +330,8 @@ The declining financial leverage with steady asset turnover reflects a more cons
 
 
 LT Foods Ltd. has shown improved financial ratios across profitability, returns, and capital efficiency metrics. A strong rise in EPS and a reduction in financial leverage further indicate a shift toward a more robust and sustainable financial model.
+
+<img src="" alt="data gather" width="600"/>
 
 ---
 
